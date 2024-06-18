@@ -3,7 +3,8 @@
 3.C
 4.A,C,E
 5.Una clave primaria es la que caracteriza e identifica una entidad de las demás, mientras que la llave foránea es aquella que interactuaría con otras entidades, es decir, que puede existir en otras entidades como su clave primaria
-<img src="/Diagrama sin título-Página-1.drawio.png">
+![Diagrama sin título-Página-1 drawio](https://github.com/Jerocruz76/db-quiz/assets/163927138/d5bb1136-9b01-4028-9323-f33d628ddf7b)
+
 6.B
 7.La herencia funciona en un diagrama con una entidad padre y otra entidad hijo, donde la entidad hijo hereda todas las relaciones y atributos del padre.
 8.C
@@ -26,4 +27,5 @@
 26.D
 27.Es donde la tabla se relaciona consigo misma para poder obtener ciertos datos de sus filas
 28.C
-29.A,C 30.<img src="/Diagrama sin título-Página-1.drawio(1).png">
+29.A,C 30.![Diagrama sin título-Página-1 drawio(1)](https://github.com/Jerocruz76/db-quiz/assets/163927138/e7ae2d0f-1ac2-4196-b708-380d2615ba97)
+
